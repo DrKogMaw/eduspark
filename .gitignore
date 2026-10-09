@@ -1,0 +1,30 @@
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scratch and temporary files
+*.tmp
+*.temp
+*.bak
+*~
