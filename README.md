@@ -4,6 +4,14 @@ EduSpark is a local-first reading fluency and vocabulary practice app for childr
 
 > **Project status:** functional prototype. The core activities run in a modern browser, but automated tests, production hosting, and a formal accessibility audit are not yet in place.
 
+## Product preview
+
+![EduSpark dashboard showing the available learning activities](docs/images/dashboard.png)
+
+| YonRead fluency practice | TypoSnap spelling practice |
+| --- | --- |
+| ![YonRead displaying a focused RSVP reading word](docs/images/yonread.png) | ![TypoSnap asking the learner to complete an illustrated word](docs/images/typosnap.png) |
+
 ## What children can practice
 
 | Tool | Skill | Current experience |
